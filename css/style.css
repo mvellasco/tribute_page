@@ -1,0 +1,27 @@
+body {
+  background-color: hsl(0, 0%, 71%);
+}
+
+.section .container .title {
+  margin-bottom: 40px;
+}
+
+.picture-section {
+  background-color: white;
+}
+
+figure {
+  margin-bottom: 20px;
+}
+
+#image {
+  height: auto;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
