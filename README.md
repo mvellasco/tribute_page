@@ -1,2 +1,2 @@
 <h1>Project Tribute Page</h1>
-<p>This project is a task from freecodecamp</p>
+<p>This is a project for freecodecamp responsive web design certification.</p>
